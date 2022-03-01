@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "contextApi",
+    "slug": "contextApi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "contextApi"
+}
